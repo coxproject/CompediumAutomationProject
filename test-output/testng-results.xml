@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73914" started-at="2020-05-17T12:29:20 IST" finished-at="2020-05-17T12:30:34 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73914" started-at="2020-05-17T12:29:20 IST" finished-at="2020-05-17T12:30:34 IST">
+      <class name="com.soumi.compediumautomation.ui.tests.CompediumTests">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.soumi.compediumautomation.ui.tests.CompediumTests@31190526]" name="launchBrowser" is-config="true" duration-ms="47388" started-at="2020-05-17T12:29:20 IST" finished-at="2020-05-17T12:30:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="resetAllFields()[pri:1, instance:com.soumi.compediumautomation.ui.tests.CompediumTests@31190526]" name="resetAllFields" duration-ms="4127" started-at="2020-05-17T12:30:07 IST" finished-at="2020-05-17T12:30:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetAllFields -->
+        <test-method status="PASS" signature="submitForm(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.soumi.compediumautomation.ui.tests.CompediumTests@31190526]" name="submitForm" duration-ms="4023" started-at="2020-05-17T12:30:20 IST" data-provider="userData" finished-at="2020-05-17T12:30:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testuser1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testpassword1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[test1 comments]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitForm -->
+        <test-method status="PASS" signature="submitForm(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.soumi.compediumautomation.ui.tests.CompediumTests@31190526]" name="submitForm" duration-ms="2655" started-at="2020-05-17T12:30:24 IST" data-provider="userData" finished-at="2020-05-17T12:30:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testuser2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testpassword2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[test2 comments]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitForm -->
+        <test-method status="PASS" signature="submitForm(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.soumi.compediumautomation.ui.tests.CompediumTests@31190526]" name="submitForm" duration-ms="2115" started-at="2020-05-17T12:30:27 IST" data-provider="userData" finished-at="2020-05-17T12:30:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testuser3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testpassword3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[test3 comments]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitForm -->
+        <test-method status="PASS" signature="submitForm(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.soumi.compediumautomation.ui.tests.CompediumTests@31190526]" name="submitForm" duration-ms="2172" started-at="2020-05-17T12:30:29 IST" data-provider="userData" finished-at="2020-05-17T12:30:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testuser4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testpassword4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[test4 comments]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitForm -->
+        <test-method status="PASS" signature="verifyPageTitle()[pri:3, instance:com.soumi.compediumautomation.ui.tests.CompediumTests@31190526]" name="verifyPageTitle" duration-ms="52" started-at="2020-05-17T12:30:31 IST" finished-at="2020-05-17T12:30:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.soumi.compediumautomation.ui.tests.CompediumTests@31190526]" name="closeBrowser" is-config="true" duration-ms="2604" started-at="2020-05-17T12:30:31 IST" finished-at="2020-05-17T12:30:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.soumi.compediumautomation.ui.tests.CompediumTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
